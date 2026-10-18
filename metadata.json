@@ -1,0 +1,6 @@
+{
+  "name": "Baby Priya's Birthday Surprise",
+  "description": "A heartfelt, romantic, and memorable birthday surprise web app for Baby Priya from Kavi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
